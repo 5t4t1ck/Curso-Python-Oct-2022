@@ -9,4 +9,7 @@ print(_num1)
 print(num2)
 print(suma)
 
-nombre_y_apellido = "Juan"
+#nombre_y_apellido = "Juan"
+
+nombreApellido = "Juan"
+print(nombreApellido)
