@@ -9,4 +9,5 @@ class Monster:
 
 mounstrito = Monster("Sullivan", "Asustador")
 print(mounstrito.nombre)
+print(mounstrito.categoria)
 mounstrito.myFunc()

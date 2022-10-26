@@ -7,5 +7,9 @@ class Perro:
     def __str__(self):
         return f"{self.name} de {self.age} años"
 
+    def ladrar(self):
+        print(f"{self.name} ladra fuerte")
+
 perro1 = Perro("Tobby",2)
 print(perro1)
+perro1.ladrar()
