@@ -1,0 +1,2 @@
+Creemos un archivo llamado Abacom, dentro de un directorio llamado Abacom
+Dentro de este archivo escribir 2 nombre y 2 apellidos

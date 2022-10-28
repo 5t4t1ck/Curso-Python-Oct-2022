@@ -1,0 +1,6 @@
+archivo = open("Archivos/notas1.txt", "w")
+archivo.write("\nagregamos un ejemplo de nueva línea")
+archivo.write("\nagregamos un ejemplo de nueva línea")
+archivo.write("\nagregamos un ejemplo de nueva línea")
+archivo.write("\nagregamos un ejemplo de nueva línea")
+archivo.close()
